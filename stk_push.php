@@ -3,8 +3,8 @@ if(isset($_POST['submit'])){
     date_default_timezone_set('Africa/Nairobi');
 
     # access token
-    $consumerKey = 'C6W5OcNHxunnIgtGEAWUA3o9TlIfkLAb';
-    $consumerSecret = '3coRAVLjOwjG0Hts';
+    $consumerKey = '4bvkv6XOSlrFMkuH1bCn3ntAhAZYo29ALKZ2P21lEpbxBSu7';
+    $consumerSecret = 'XHbnEvn8XRGuAzCXicI07IzeJnzMwSwAA0r3w6TYWCiVYwPrAFeHjbC0A2MAQRa6';
     
 
     $BusinessShortCode = '174379';
